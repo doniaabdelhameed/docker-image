@@ -1,4 +1,4 @@
 Mydocker_image
-Create docker file
-Build image 
-Create python script
+ Create docker file
+  Build image 
+ Create python script
